@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "http-proxy": "^1.18.1",
+    "https-proxy-agent": "^5.0.1"
+  },
+  "name": "understanding-express-with-middleware-and-web-proxy",
+  "version": "1.0.0",
+  "description": "A minimal script to understand express middleware and web Proxy",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "webproxy"
+  ],
+  "author": "lgauthier1",
+  "license": "ISC"
+}
